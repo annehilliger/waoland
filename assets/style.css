@@ -1,7 +1,14 @@
-a {
-width:100%;
+html, body { 
+  height: 100%; 
+  margin: 0;
 }
 
 img {
-margin: 0px auto
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 30em;
+  height: 20em;
+  margin-left: -15em;
+  margin-top: -10em;
 }
